@@ -1,0 +1,28 @@
+.recipe {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px (71, 71, 71);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* background: #04081a; */
+  background: #090b13;
+  align-items: center;
+  width: 40%;
+
+  /* [class*="col-"] {
+    width: 45%;
+  } */
+
+  /* @media screen and (min-width: 600px) {
+    .col-s-1 {
+      width: 80%;
+    }
+  } */
+}
+
+.image {
+  border-radius: 50%;
+  /* width: 200px;
+  height: 200px; */
+}
